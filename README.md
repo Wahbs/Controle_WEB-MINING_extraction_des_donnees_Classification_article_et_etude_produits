@@ -22,9 +22,9 @@ plus populaires, les tendances récurrentes, ou les mots-clés fréquemment util
 2. Utilisez une bibliothèque de web scraping pour extraire les informations sur les produits, telles que le nom du produit, le prix, la description, la note moyenne, etc.
 3. Enregistrez les données dans un format tabulaire, tel qu'un fichier CSV.
 4. Effectuez une analyse de base des données extraites, par exemple :
-  • Identifiez les produits les plus chers et les moins chers.
-  • Trouvez la moyenne et la médiane des prix des produits.
-  • Analysez les catégories de produits les plus populaires.
-  • Examinez les notes moyennes des produits.
-5. Présentez les résultats sous forme de graphiques ou de tableaux pour une meilleure 
+   • Identifiez les produits les plus chers et les moins chers.
+   • Trouvez la moyenne et la médiane des prix des produits.
+   • Analysez les catégories de produits les plus populaires.
+   • Examinez les notes moyennes des produits.
+6. Présentez les résultats sous forme de graphiques ou de tableaux pour une meilleure 
 compréhension.
