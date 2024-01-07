@@ -2,6 +2,10 @@
 Ceci est un travail personnel effectué lors d'un contrôle à l'école.
 Il est constitué de 2 exercices dont l'objectif est de pouvoir effectuer du scraping et d'analyse de ces données. Pour cela, j'ai utilisé plusieurs bibliothèques python pour le scraping et certaines pour le traitement du langage naturel.
 
+## Datasets
+Pour ces exercices j'ai constitué 2 dataset distinct dont:
+- **article_extraits** pour l'exercice 1
+- **donnees_site_vente** pour l'exercice 2
 ## Exercice 1 : Extraction de données à partir du contenu textuel d'un site web
 1. Allez sur le site web d'actualités
 2. Utilisez une bibliothèque de web scraping pour extraire les titres et les descriptions des articles de ce 
